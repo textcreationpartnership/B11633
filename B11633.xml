@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[To] the honorable assembly of the Commons House of Parliament The humble remonstrance of the benefits of drayning fenne lands in the severall counties of Yorke, Lincolne, Cambridge, Norfolke and Huntington.</title>
+            <author>Bland, George.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11633</idno><idno type="EEBO-CITATION">99849945</idno>
+  <idno type="VID">177932</idno>
+  <idno type="EEBO-PROQUEST">2240862027</idno>
+  <idno type="STC">STC 3126.5</idno>
+  <idno type="STC">ESTC S114722</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99849945e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11633)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177932)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1270:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[To] the honorable assembly of the Commons House of Parliament The humble remonstrance of the benefits of drayning fenne lands in the severall counties of Yorke, Lincolne, Cambridge, Norfolke and Huntington.</title>
+                  <author>Bland, George.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Bland Gent,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1628?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By George Bland and others. A George Bland was deputy receiver for the county of York in 1628--STC.</note>
+                  <note>Author and suggested publication date from STC.</note>
+                  <note>Formerly STC 7752.</note>
+                  <note>Identified as STC 7752 on UMI microfilm.</note>
+                  <note>Imperfect; cropped at head with loss of first word of title.</note>
+                  <note>reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term type="topical_term">Drainage --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Fens, The (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:177932:1"/>
+            <head>THE HONORABLE ASSEMBLY OF THE Commons House of Parliament.</head>
+            <head type="sub">The humble Remonstrance of the benefits of Dray<g ref="char:EOLhyphen"/>ning Fenne Lands in the severall Counties of <hi>Yorke, Lincolne, Cambridge, Norfolke</hi> and <hi>Huntington.</hi>
+            </head>
+            <opener>Sheweth to this Honourable Assembly,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Springs of Riches, and Glory of this Island, ariseth cheifely from the Labour and industry of Men, and by neg<g ref="char:EOLhyphen"/>lect hereof followeth poverty and shame.</p>
+            <p>That the Springs of Labour may arise in the greater strength, Wee humbly present these profits for the incourage<g ref="char:EOLhyphen"/>ment thereof, which we conceive, will undoubtedly arise, by Fenne Land Drained and used as followeth.</p>
+            <p>First, We offer unto your consideration what proportion of Drained Land will answere the full profit of fishing and uncertaine pastu<g ref="char:EOLhyphen"/>rage upon drowned Lands (where the Thistle nor the Mould warpe dare not inhabit, for these truely are to be accompted drowned Land;) In times past in some parts prized, it did appeare, the third part of drained Land was better then the whole undrained upon meanest profitt, which is pasturage of Horse or dry Beasts, yeilded 20. s. the Acar, when an Acar of drowned Land, <hi>Com<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unibus Annis</hi> was not worth five shillings by the yeare, The two parts of the three being put into severalls; it remaineth to consider what profit may arise to the owne<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s or occupiers of the two parts; The meanest profitt that arriseth by grasing of horse; or gelded bests amounteth to 20. s. the Acar, if imployed to Milke Beast or Tillage 40. s. if imployed in Rapes or Collseede, will be worth 4. l. the Acar; if in Hempe with meane Labour 8. <hi>l.</hi> the Acar; if imployed into Cordage or Poledavies or course Canvaces, the labour will double the materialls, and beget 16. <hi>l.</hi> the Acar. An Acar of Flax spunne into meane prized Linnen cloth of 2. s. or 3. s. the yard, will arise to more then 30. l. the Acar. An Acar of Madder for Dying we cannot estimate, which we buy from beyond Sea: This being manifest, we offer unto your consideration what the Annuall Quantity of these improved commodities, doe amount unto in the whole, after an easie esti<g ref="char:EOLhyphen"/>mate.</p>
+            <p>It cannot be denied, but there is sixe hundred thousand Acars of these watery grounds in the East part, of <hi>England,</hi> lying in the said five Counties; one part being drained and remaining unto the Comeners unaccompted the other two parts being meanely imployed in pasturage, will render as aforesaid 20. s. the Acar, amounting to Foure Hundred Thousand Pounds profit yearly to the Kingdome, upon the first improvement. Every Acar imployed to Milke Kine or Tillage, will improve 20. s. more. So that imploying halfe to Tillage or Milke Beasts, it increaseth two hundred thousand Pounds; which maketh the Anuall profitt to arise to Sixe Hundred Thousand Pounds. Thus much will arise out of common Husbandry without manufacture; the naturall improvement of Hempe, Flaxe, and Rapes for so much as is so used will amount to 40. s. the Acar more, which may be one hundred thousand Acars; All which doth a<g ref="char:EOLhyphen"/>mount to eight hundred thousand Pound <hi>per annum.</hi> Yet remaineth the improvement to be made out of the Flaxe and Hempe by ma<g ref="char:EOLhyphen"/>nufacture, of Cordage, Poledavies, Course Canvace and finer Linnen, to such an estimate as the Petitioners dare not take upon them to estimate: But doe verily beleeve it may amount to above a Million <hi>per annum</hi> in <hi>toto</hi> to the Kingdome.</p>
+            <p>We further offer unto your consideration the profitt that may redound unto the Kingdome from without, by way of entercourse of traffick with forraigners, we may by our owne Labours have these commodities within us, that we buy from without us, as our Cor<g ref="char:EOLhyphen"/>dage, Poledavies, Madder, common Linnen and course Canvasses, and in stead of buying be a Setler, which in the point of saving in our ballance of trade cannot be lesse then five hundred thousand pounds a yeare; and so much yearley cleare gaine, in the Ballance of trade would import so much Bullion, for that which was exported: Which Bullion increasing yearely would in short time increase such plenty of money in our Kingdome, that it would advance all our native Commodities, and Lands would be improved thereby: The im<g ref="char:EOLhyphen"/>proving of our Kingdome would make us more renowned, and formidable in forraigne parts, and give life and courage to every parti<g ref="char:EOLhyphen"/>cular member. This we conceive to be the blessing agreeable to the good will of God performed by Labour.</p>
+            <p>Together with Fifty Thousand Pounds Customes yearely to the Kings Coffers, and many thousands of poore people set on worke, who now are ready to perish for want. All these particulars are as we conceive upon an easie accompt, undeniable.</p>
+            <p>These informations we humbly offer to this Honorable assemblie, hoping that they tend to the generall good and honour of this Kingdome.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed for <hi>George Bland</hi> Gent.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
